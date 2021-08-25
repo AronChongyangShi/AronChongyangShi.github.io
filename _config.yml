@@ -85,9 +85,9 @@ author:
   bio              : "I am a senior undergraduate in the Department of Statistics and Data Science at Southern University of Science and Technology. I am currently applying for a PhD position. My supervisor is Jing Bingyi."
   location         : "Shenzhen 518055, P.R. China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+  googlescholar    :
+  email            : "aron.c.shi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
