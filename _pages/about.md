@@ -1,13 +1,29 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Aron Chongyang Shi"
+excerpt: "Aron Chongyang Shi"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is Aron Chongyang Shi's homepage.
+### About Me
 
-A student who wants to do some interesting projects.
+I am a senior undergraduate in the Department of Statistics and Data Science at Southern University of Science and Technology. My advisor is Prof. Bingyi Jing. I am currently in a research program of the National University of Singapore under the supervision of Professor Wang Zhou.
+
+Now I want to apply for a PhD position to continue to enrich my academic life. If you want to know more about me. Here is [my CV](http://AronChongyangShi.github.io/files/Resume.pdf). Thanks for your attention to me.
+
+And there are some of my work on this website, if you are interested, you can also take a look.
+
+### Research Interest
+
+I'm interested in statistical learning, high-dimensional statistics and their applications on network science, deep learning and reinforcement learning.
+
+- Random matrix theory
+
+- Network data analysis
+
+- Data-driven control
+
+- Econometrics

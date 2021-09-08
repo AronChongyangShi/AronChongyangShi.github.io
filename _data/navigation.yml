@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Competition and Project Paper"
+  - title: "Projects and Competitions"
     url: /publications/
 
   - title: "Seminars"
     url: /talks/
-
-  - title: "CV"
-    url: /cv/
