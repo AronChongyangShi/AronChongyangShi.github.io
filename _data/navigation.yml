@@ -3,5 +3,5 @@ main:
   - title: "Projects and Competitions"
     url: /publications/
 
-  - title: "Seminars"
-    url: /talks/
+  # - title: "Seminars"
+  #   url: /talks/
