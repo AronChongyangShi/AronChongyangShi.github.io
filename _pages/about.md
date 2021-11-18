@@ -20,12 +20,12 @@ Thanks for your attention to me.
 
 ### Research Interest
 
-I'm interested in statistical learning, high-dimensional statistics and their applications on network science, deep learning and reinforcement learning.
+I'm interested in statistical machine leaning and control theory, especially reinforcement learning. My secondary interest is data science and its applications on network data. I am now committed to developing new machine learning methods to solve important problems in artificial intelligence and neuroscience.
 
-- Random matrix theory
+- Control Theory
 
-- Network data analysis
+- Reinforcement Learning
 
-- Data-driven control
+- Network Data Analysis
 
-- Econometrics
+- Data Mining
