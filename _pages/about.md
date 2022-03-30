@@ -26,6 +26,4 @@ My current research interests lie in statistical machine leaning and control the
 
 - Control Theory
 
-- Network Data Analysis
-
-- Data Mining
+- Game Theory
