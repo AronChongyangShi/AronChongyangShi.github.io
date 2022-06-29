@@ -1,29 +1,26 @@
 ---
 permalink: /
-title: "Aron Chongyang Shi"
-excerpt: "Aron Chongyang Shi"
+title: "Chongyang Shi"
+excerpt: "Chongyang Shi"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+### Bio
 
-### About Me
+I am a first-year PhD student in the Electrical and Computer Engineering at [Uiversity of Florida](https://www.ufl.edu/) (UF). My advisor is [Dr. Jie Fu](https://fujie.ece.ufl.edu/).  I earned my B.S. degree in Statistics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), Shenzhen, China in 2022.
 
-I am a senior undergraduate in the Department of Statistics and Data Science at Southern University of Science and Technology. My advisor is Prof. Bingyi Jing. I am currently in a research program of the National University of Singapore and my supervisor is Professor Wang Zhou.
-
-Now I want to apply for a PhD position to continue to enrich my academic life. If you want to know more about me. Here is [my CV](http://AronChongyangShi.github.io/files/CV.pdf). And my email is aron.c.shi@gmail.com.
-
-There are some of my work on this website, if you are interested, you can also take a look.
-
-Thanks for your attention to me.
+In 2016, when I was a high school student, I saw Alphago beat Lee Sedol on TV. After that, I was fascinated by the power of AI. And also, the movie *The Imitation Game* was very touching and got me very interested in agents. That's why I choose to work on game theory and reinforcement learning. For some reason, my undergraduate major was statistics. That didn't dampen my enthusiasm for AI. On the contrary, the knowledge of statistics has given me advantage in machine learning. However, I still want to apply AI to solve engineering problems. So now, I chose the ECE major so that I could face industrial problems head on.
 
 ### Research Interest
 
-My current research interests lie in statistical machine leaning and control theory, especially reinforcement learning. My secondary research interest is data science and its applications on network data. After getting the admission of Ph.D. program, I will continue my academic journey on developing machine learning methods to solve interesting and practical problems in robotics, neuroscience, and social science.
+My research interests lie on game theory and control theory. I'm currently working on some problems on action deception in stochastic games. I enjoy making game AI by some beautiful algorithms in game theory.
 
 - Reinforcement Learning
-
 - Control Theory
-
 - Game Theory
+
+### News
+
+* **[Aug 2022]** I become a PhD student at ECE department at University of Florida.
