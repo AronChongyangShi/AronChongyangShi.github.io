@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Chongyang Shi"
 title_separator          : "-"
-name                     : &name "Aron Chongyang Shi"
-description              : &description "Undergraduate in Statistics, Southern University of Science and Technology"
+name                     : &name "Chongyang Shi"
+description              : &description "Ph.D. student in ECE, University of Florida"
 url                      : https://AronChongyangShi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AronChongyangShi.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aron Chongyang Shi"
   avatar           : "you.jpg"
-  bio              : "Senior Statistics Major student in SUSTech"
-  location         : "Shenzhen 518055, P.R. China"
+  bio              : "First-year Ph.D. student in ECE, University of Florida"
+  location         : "Gainesville, FL 32611"
   employer         :
   pubmed           :
   googlescholar    :
