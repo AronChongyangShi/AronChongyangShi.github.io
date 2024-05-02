@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### About Me
 
-I am a first-year Ph.D. student in the Electrical and Computer Engineering department at [Uiversity of Florida](https://www.ufl.edu/) (UF). My advisor is [Dr. Jie Fu](https://fujie.ece.ufl.edu/).  I earned my B.S. degree in Statistics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), Shenzhen, China in 2022.
+I am a second-year Ph.D. student at the Electrical and Computer Engineering department department at [Uiversity of Florida](https://www.ufl.edu/) (UF). My advisor is [Dr. Jie Fu](https://fujie.ece.ufl.edu/).  I earned my B.S. degree in Statistics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), Shenzhen, China in 2022.
 
 In 2016, when I was a high school student, I saw Alphago beat Lee Sedol on TV. This scene completely shocked me, but I believe that the potential of AI goes far beyond this. That's why I choose to work on game theory and reinforcement learning. Sure enough, with the appearance of chatGPT in 2022, it has brought us a brand new industrial revolution. I am very honored to be involved in the development and construction of AI.
 

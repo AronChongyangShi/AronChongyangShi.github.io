@@ -86,9 +86,9 @@ author:
   location         : "Gainesville, FL 32611"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=Thbx0TkAAAAJ&hl=en"
   email            : "aron.c.shi@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Chongyang-Shi"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,8 +96,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AronYoung414"
-  google_plus      :
+  github           : "https://github.com/AronYoung414"
+  google_plus      : 
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
