@@ -15,14 +15,17 @@ In 2016, when I was a high school student, I saw Alphago beat Lee Sedol on TV. T
 
 ### Research Interest
 
-My research interests lie in game theory and control theory. I'm currently working on some problems on stochastic games. In addition to that, my research is related to discrete event system and opacity.
+My research interests lie in game theory and control theory. I'm currently working on information-flow control problems on stochastic games.
 
-- Reinforcement Learning
-- Control Theory
-- Formal Methods
-- Game Theory
+- Information-flow control
+- Finite state channels 
+- Game theory
+
 
 ### News
 
-* **[Jan 2023]** My first paper *[Quantitative Planning with Action Deception in Concurrent Stochastic Games](https://arxiv.org/abs/2301.01349).* is accepted at AAMAS 2023.
+* **[Apr 2024]** April 2024: My paper *[Information-Theoretic Opacity-Enforcement in Markov Decision Processes](https://arxiv.org/abs/2405.00157).* is accepted by the 33rd International Joint Conference on Artificial Intelligence.
+* **[Dec 2023]** Our paper *[Covert Planning against Imperfect Observers](https://dl.acm.org/doi/10.5555/3635637.3662990).* is accepted by 23rd International Conference on Autonomous Agents and Multi-Agent Systems. 
+* **[July 2023]** My paper *[Synthesis of Opacity-Enforcing Winning Strategies Against Colluded Opponent](https://ieeexplore.ieee.org/abstract/document/10384109).* is accepted and presented at 2023 62nd IEEE Conference on Decision and Control (CDC).
+* **[Jan 2023]** My first paper *[Quantitative Planning with Action Deception in Concurrent Stochastic Games](https://dl.acm.org/doi/abs/10.5555/3545946.3598627).* is accepted by 22rd International Conference on Autonomous Agents and Multi-Agent Systems.
 * **[Aug 2022]** I become a PhD student at ECE department at University of Florida.
