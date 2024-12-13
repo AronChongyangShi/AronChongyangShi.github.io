@@ -24,7 +24,8 @@ My research interests lie in game theory and control theory. I'm currently worki
 
 ### News
 
-* **[Apr 2024]** April 2024: My paper *[Information-Theoretic Opacity-Enforcement in Markov Decision Processes](https://arxiv.org/abs/2405.00157).* is accepted by the 33rd International Joint Conference on Artificial Intelligence.
+* **[Dec 2024]** My paper *[Active Perception With Initial-State Uncertainty: A Policy Gradient Method](https://arxiv.org/abs/2409.16439)* is accepted by IEEE Control Systems Letters.
+* **[Apr 2024]** My paper *[Information-Theoretic Opacity-Enforcement in Markov Decision Processes](https://arxiv.org/abs/2405.00157).* is accepted by the 33rd International Joint Conference on Artificial Intelligence.
 * **[Dec 2023]** Our paper *[Covert Planning against Imperfect Observers](https://dl.acm.org/doi/10.5555/3635637.3662990).* is accepted by 23rd International Conference on Autonomous Agents and Multi-Agent Systems. 
 * **[July 2023]** My paper *[Synthesis of Opacity-Enforcing Winning Strategies Against Colluded Opponent](https://ieeexplore.ieee.org/abstract/document/10384109).* is accepted and presented at 2023 62nd IEEE Conference on Decision and Control (CDC).
 * **[Jan 2023]** My first paper *[Quantitative Planning with Action Deception in Concurrent Stochastic Games](https://dl.acm.org/doi/abs/10.5555/3545946.3598627).* is accepted by 22rd International Conference on Autonomous Agents and Multi-Agent Systems.
