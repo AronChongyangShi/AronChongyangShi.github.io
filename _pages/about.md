@@ -9,24 +9,24 @@ redirect_from:
 ---
 ### About Me
 
-I am a second-year Ph.D. student at the Electrical and Computer Engineering department department at [Uiversity of Florida](https://www.ufl.edu/) (UF). My advisor is [Dr. Jie Fu](https://fujie.ece.ufl.edu/).  I earned my B.S. degree in Statistics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), Shenzhen, China in 2022.
+I'm a fourth-year Ph.D. student at the Electrical and Computer Engineering department department at [Uiversity of Florida](https://www.ufl.edu/) (UF). My advisor is [Dr. Jie Fu](https://fujie.ece.ufl.edu/).  I earned my B.S. degree in Statistics from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), Shenzhen, China in 2022.
 
 In 2016, when I was a high school student, I saw Alphago beat Lee Sedol on TV. This scene completely shocked me, but I believe that the potential of AI goes far beyond this. That's why I choose to work on game theory and reinforcement learning. Sure enough, with the appearance of chatGPT in 2022, it has brought us a brand new industrial revolution. I am very honored to be involved in the development and construction of AI.
 
 ### Research Interest
 
-My research interests lie in game theory and control theory. I'm currently working on information-flow control problems on stochastic games.
+My research interests lie in multi-agent reinforcement learning (MARL), game theory, control theory. I'm currently working on information-flow control problems on stochastic games.
 
 - Information-flow control
-- Finite state channels 
+- MARL (cooperative and competitive) 
 - Game theory
 
 
 ### News
-
-* **[Dec 2024]** My paper *[Active Perception With Initial-State Uncertainty: A Policy Gradient Method](https://arxiv.org/abs/2409.16439)* is accepted by IEEE Control Systems Letters.
-* **[Apr 2024]** My paper *[Information-Theoretic Opacity-Enforcement in Markov Decision Processes](https://arxiv.org/abs/2405.00157).* is accepted by the 33rd International Joint Conference on Artificial Intelligence.
-* **[Dec 2023]** Our paper *[Covert Planning against Imperfect Observers](https://dl.acm.org/doi/10.5555/3635637.3662990).* is accepted by 23rd International Conference on Autonomous Agents and Multi-Agent Systems. 
-* **[July 2023]** My paper *[Synthesis of Opacity-Enforcing Winning Strategies Against Colluded Opponent](https://ieeexplore.ieee.org/abstract/document/10384109).* is accepted and presented at 2023 62nd IEEE Conference on Decision and Control (CDC).
-* **[Jan 2023]** My first paper *[Quantitative Planning with Action Deception in Concurrent Stochastic Games](https://dl.acm.org/doi/abs/10.5555/3545946.3598627).* is accepted by 22rd International Conference on Autonomous Agents and Multi-Agent Systems.
+* **[Feb 2025]** Our paper *[Synthesis of Dynamic Masks for Information-Theoretic Opacity in Stochastic Systems](https://dl.acm.org/doi/pdf/10.1145/3716550.3722036)* is accepted by International Conference on Cyber-Physical Systems (ICCPS 2025).
+* **[Dec 2024]** My paper *[Active Perception With Initial-State Uncertainty: A Policy Gradient Method](https://arxiv.org/abs/2409.16439)* is accepted by IEEE Control Systems Letters (LCSS).
+* **[Apr 2024]** My paper *[Information-Theoretic Opacity-Enforcement in Markov Decision Processes](https://arxiv.org/abs/2405.00157).* is accepted by the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024).
+* **[Dec 2023]** Our paper *[Covert Planning against Imperfect Observers](https://dl.acm.org/doi/10.5555/3635637.3662990).* is accepted by 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2024). 
+* **[July 2023]** My paper *[Synthesis of Opacity-Enforcing Winning Strategies Against Colluded Opponent](https://ieeexplore.ieee.org/abstract/document/10384109).* is accepted and presented at 2023 62nd IEEE Conference on Decision and Control (CDC 2023).
+* **[Jan 2023]** My first paper *[Quantitative Planning with Action Deception in Concurrent Stochastic Games](https://dl.acm.org/doi/abs/10.5555/3545946.3598627).* is accepted by 22rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS 2023).
 * **[Aug 2022]** I become a PhD student at ECE department at University of Florida.
